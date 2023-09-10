@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#video-container {
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+    background-color: #000;
+}
+
+button {
+    display: block;
+    margin: 10px auto;
+}
